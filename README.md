@@ -9,4 +9,7 @@ Firebase sitesinden projenize ait google-services.json oluşturduktan sonra dosy
 <br>
 <img src="https://github.com/sinanercetin/FotografPaylasmaFirebase/blob/master/firebase_entegrasyon.JPG">
 
+<br>
+Fotoğraf yüklemeyle ilgili olarak <a href="https://github.com/square/picasso">Picasso</a> kütüphanesini kullandım. 
+
 
