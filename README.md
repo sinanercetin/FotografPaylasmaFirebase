@@ -2,10 +2,13 @@
 Firebase Auth ve Firestore kullanım örneği
 <br><br>
 
-
-google-services.json dosyasına Firebase sitesinen oluşturduğunuz kendi json dosyanızı <b>"app"</b> klasörünün altına ekleyerek kullanabilirsiniz.
+<b>Firebase Entegrasyon</b>
+<br>
+Firebase sitesinden projenize ait google-services.json oluşturduktan sonra dosyanızı <b>"app"</b> klasörünün altına ekleyerek kullanabilirsiniz.
 <br><br>
-Cloud Firestore'da, <b>Post</b> adında bir koleksiyon oluşturun ve aşağıdaki alanları ekleyin.<br>
+
+Ayrıca potsları kaydedebilmeniz için Cloud Firestore'da, <b>Post</b> adında bir koleksiyon oluşturun ve aşağıdaki alanları ekleyin.
+<br>
 gorselUrl
 <br>
 kullaniciEmail
