@@ -8,7 +8,7 @@ Fotoğraf yüklemeyle ilgili olarak <a href="https://github.com/square/picasso">
 <br>
 Firebase sitesinden projenize ait google-services.json oluşturduktan sonra dosyanızı Android studio'da Project görünümüne alın ve <b>app</b> klasörünün altına kopyalayın.
 
-<img src="https://github.com/sinanercetin/FotografPaylasmaFirebase/blob/master/firebase_entegrasyon.JPG">
+<img src="https://github.com/sinanercetin/FotografPaylasmaFirebase/blob/master/images/firebase_entegrasyon.JPG">
 
 
 
