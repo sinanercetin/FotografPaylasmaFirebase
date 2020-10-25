@@ -4,6 +4,9 @@ Firebase Auth ve Firestore kullanım örneği
 
 <b>Firebase Entegrasyon</b>
 <br>
-Firebase sitesinden projenize ait google-services.json oluşturduktan sonra dosyanızı <b>app</b> klasörünün altına ekleyerek kullanabilirsiniz.
+Firebase sitesinden projenize ait google-services.json oluşturduktan sonra dosyanızı Android studio'da Project görünümüne alın ve <b>app</b> klasörünün altına kopyalayın.
+
+<br>
+![Preview](https://github.com/sinanercetin/FotografPaylasmaFirebase/blob/master/firebase_entegrasyon.JPG)
 
 
