@@ -1,5 +1,5 @@
 # Firebase ile Fotoğraf Paylaşma App
-Firebase Auth ve Firestore kullanım örneği
+Firebase Auth ve Cloud Firestore
 <br><br>
 
 Fotoğraf yüklemeyle ilgili olarak <a href="https://github.com/square/picasso">Picasso</a> kütüphanesini kullandım. 
